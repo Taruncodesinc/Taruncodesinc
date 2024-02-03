@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haru
+- 👋 Hi, I’m @Tarun
 - 👀 I’m interested in ...competitive programming 
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...
