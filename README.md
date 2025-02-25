@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently working on **Alumni Connect**
+- 🔭 I’m currently working on **Dapps**
 
-- 🌱 I’m currently learning **Reactjs, C++**
+- 🌱 I’m currently learning **Reactjs, C++,solidity**
 
-- 👯 I’m looking to collaborate on **AI generative**
+- 👯 I’m looking to collaborate on **Blockchain**
 
 - 🤝 I’m looking for help with **Backend**
 
